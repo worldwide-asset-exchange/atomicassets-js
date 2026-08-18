@@ -1,5 +1,13 @@
 # AtomicAssets JavaScript
 
+> **This repository is archived.** Development of the AtomicAssets JavaScript SDK continues at
+> [atomicassets/atomicassets-sdk](https://github.com/atomicassets/atomicassets-sdk), which carries
+> the full history of this repository including its `v1` tags.
+>
+> The npm package moved with it: install
+> [`@atomichub/atomicassets`](https://www.npmjs.com/package/@atomichub/atomicassets) in place of the
+> deprecated `atomicassets` package. The 2.x releases add support for the AtomicAssets v2 contract.
+
 JS Library to read data from the atomicassets NFT standard.
 
 Contract / General Documentation can be found on [https://github.com/pink.gg/atomicassets-contract/wiki](https://github.com/pink.gg/atomicassets-contract/wiki)
